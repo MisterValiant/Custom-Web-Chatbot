@@ -11,7 +11,7 @@
      </script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <h1>Hello Bot!</h1>
+    <h1>Hello Bot-kun!</h1>
 
     <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Default.aspx">HyperLink</asp:HyperLink>
     <br />
